@@ -1,0 +1,4 @@
+sample,reads1,reads2
+RNA_sample1,/scratch/user/data/lane1-1_1_sequence.fastq.gz,/scratch/user/data/lane1-1_2_sequence.fastq.gz
+RNA_sample2,/scratch/user/data/lane1-2_1_sequence.fastq.gz,/scratch/user/data/lane1-2_2_sequence.fastq.gz
+RNA_sample3,/scratch/user/data/lane1-3_1_sequence.fastq.gz,/scratch/user/data/lane1-3_2_sequence.fastq.gz
