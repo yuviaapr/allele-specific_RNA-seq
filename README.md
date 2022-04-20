@@ -20,6 +20,7 @@ To use this workflow, you will need to install the following programs, the indic
 - SNPsplit (0.3.4)
 - Picard Tools (2.20.8)
 - featureCounts (v2.0.1)
+- R (3.2.2)
 - deepTools (3.1.3)
 
 Note: I suggest to install all programs in a conda environment.
